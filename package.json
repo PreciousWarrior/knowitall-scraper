@@ -1,0 +1,25 @@
+{
+  "name": "knowitall-scraper",
+  "version": "1.0.0",
+  "description": "Trivia Q/A scraper for know-it-all bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreciousWarrior/knowitall-scraper.git"
+  },
+  "author": "IamPrecious",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreciousWarrior/knowitall-scraper/issues"
+  },
+  "homepage": "https://github.com/PreciousWarrior/knowitall-scraper#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "html-entities": "^2.3.2",
+    "shelljs": "^0.8.4"
+  }
+}
